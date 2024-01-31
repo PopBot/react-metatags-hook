@@ -1,0 +1,467 @@
+repo_name: PopBot/react-metatags-hook
+report_id: b179467bdd32dd4be2183cd5a584af75
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-31T19:04:05+00:00'
+requested_by: lordgiotto
+provider: github
+branch: master
+detected_tools_count: 34
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/PopBot/react-metatags-hook
+  detection_source: Repo Metadata
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/PopBot/react-metatags-hook
+  detection_source: Repo Metadata
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 16.13.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/PopBot/react-metatags-hook/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Lorenzo Zottar
+  last_updated_on: 2020-12-06 00:46:05.000000000 Z
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/PopBot/react-metatags-hook/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Lorenzo Zottar
+  last_updated_on: 2019-05-12 18:24:21.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/PopBot/react-metatags-hook
+  detection_source: Repo Metadata
+- name: Jest
+  description: Painless JavaScript Unit Testing
+  website_url: http://facebook.github.io/jest/
+  version: 26.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/830/jest.png
+  detection_source_url: https://github.com/PopBot/react-metatags-hook/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Lorenzo Zottar
+  last_updated_on: 2019-05-12 18:24:21.000000000 Z
+- name: Prettier
+  description: 'Prettier is an opinionated code formatter. '
+  website_url: https://prettier.io/
+  version: 2.0.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  detection_source_url: https://github.com/PopBot/react-metatags-hook/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Lorenzo Zottar
+  last_updated_on: 2020-05-29 08:19:09.000000000 Z
+- name: Yarn
+  description: A new package manager for JavaScript
+  website_url: https://yarnpkg.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/PopBot/react-metatags-hook/blob/master/yarn.lock
+  detection_source: yarn.lock
+  last_updated_by: Lorenzo Zottar
+  last_updated_on: 2019-05-12 18:24:21.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/PopBot/react-metatags-hook/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Lorenzo Zottar
+  last_updated_on: 2019-05-12 18:24:21.000000000 Z
+- name: pre-commit
+  description: A slightly improved pre-commit hook for git
+  website_url: http://jish.github.io/pre-commit/
+  version: 1.2.2
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Git Tools
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/PopBot/react-metatags-hook/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Lorenzo Zottar
+  last_updated_on: 2020-04-12 20:37:05.000000000 Z
+- name: rollup
+  description: The next-generation JavaScript module bundler
+  website_url: http://rollupjs.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/4423/zE8RTn9E_400x400.jpg
+  detection_source_url: https://github.com/PopBot/react-metatags-hook/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Lorenzo Zottar
+  last_updated_on: 2020-05-08 15:32:05.000000000 Z
+- name: Majestic
+  description: The world's most comprehensive source of backlink information. Email
+    support@majestic.com to set up a support ticket or see product news and views
+    tweeted here.
+  website_url: https://majestic.com/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/10583/no-img-open-source.png
+  detection_source_url: https://github.com/PopBot/react-metatags-hook/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Lorenzo Zottar
+  last_updated_on: 2020-05-08 15:32:05.000000000 Z
+- name: "@types/jest"
+  description: TypeScript definitions for Jest
+  package_url: https://www.npmjs.com/@types/jest
+  version: 25.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15840/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/PopBot/react-metatags-hook/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Lorenzo Zottar
+  last_updated_on: 2020-12-06 00:46:05.000000000 Z
+- name: "@types/react"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react
+  version: 16.9.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15894/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/PopBot/react-metatags-hook/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Lorenzo Zottar
+  last_updated_on: 2020-12-06 00:46:05.000000000 Z
+- name: "@types/react-dom"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react-dom
+  version: 16.9.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15946/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/PopBot/react-metatags-hook/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Lorenzo Zottar
+  last_updated_on: 2020-12-06 00:46:05.000000000 Z
+- name: "@typescript-eslint/eslint-plugin"
+  description: TypeScript plugin for ESLint
+  package_url: https://www.npmjs.com/@typescript-eslint/eslint-plugin
+  version: 4.9.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15982/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/PopBot/react-metatags-hook/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Lorenzo Zottar
+  last_updated_on: 2020-12-06 00:46:05.000000000 Z
+- name: "@typescript-eslint/parser"
+  description: An ESLint custom parser which leverages TypeScript ESTree
+  package_url: https://www.npmjs.com/@typescript-eslint/parser
+  version: 4.9.0
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15980/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: https://github.com/PopBot/react-metatags-hook/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Lorenzo Zottar
+  last_updated_on: 2020-12-06 00:46:05.000000000 Z
+- name: concurrently
+  description: Run commands concurrently
+  package_url: https://www.npmjs.com/concurrently
+  version: 5.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16041/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
+  detection_source_url: https://github.com/PopBot/react-metatags-hook/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Lorenzo Zottar
+  last_updated_on: 2020-05-08 15:32:05.000000000 Z
+- name: eslint-config-standard
+  description: JavaScript Standard Style - ESLint Shareable Config
+  package_url: https://www.npmjs.com/eslint-config-standard
+  version: 14.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15872/default_e4668902f8489350db9b0fb228523a571ef05b26.png
+  detection_source_url: https://github.com/PopBot/react-metatags-hook/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Lorenzo Zottar
+  last_updated_on: 2020-12-06 00:46:05.000000000 Z
+- name: eslint-plugin-import
+  description: Import with sanity
+  package_url: https://www.npmjs.com/eslint-plugin-import
+  version: 2.22.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15806/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  detection_source_url: https://github.com/PopBot/react-metatags-hook/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Lorenzo Zottar
+  last_updated_on: 2020-12-06 00:46:05.000000000 Z
+- name: eslint-plugin-node
+  description: Additional ESLint's rules for Node.js
+  package_url: https://www.npmjs.com/eslint-plugin-node
+  version: 11.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15874/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/PopBot/react-metatags-hook/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Lorenzo Zottar
+  last_updated_on: 2020-12-06 00:46:05.000000000 Z
+- name: eslint-plugin-promise
+  description: Enforce best practices for JavaScript promises
+  package_url: https://www.npmjs.com/eslint-plugin-promise
+  version: 4.2.1
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15885/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/PopBot/react-metatags-hook/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Lorenzo Zottar
+  last_updated_on: 2020-12-06 00:46:05.000000000 Z
+- name: eslint-plugin-react
+  description: React specific linting rules for ESLint
+  package_url: https://www.npmjs.com/eslint-plugin-react
+  version: 7.21.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15817/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/PopBot/react-metatags-hook/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Lorenzo Zottar
+  last_updated_on: 2020-12-06 00:46:05.000000000 Z
+- name: eslint-plugin-react-hooks
+  description: ESLint rules for React Hooks
+  package_url: https://www.npmjs.com/eslint-plugin-react-hooks
+  version: 4.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16149/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
+  detection_source_url: https://github.com/PopBot/react-metatags-hook/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Lorenzo Zottar
+  last_updated_on: 2020-12-06 00:46:05.000000000 Z
+- name: eslint-plugin-standard
+  description: ESlint Plugin for the Standard Linter
+  package_url: https://www.npmjs.com/eslint-plugin-standard
+  version: 5.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15884/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/PopBot/react-metatags-hook/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Lorenzo Zottar
+  last_updated_on: 2020-12-06 00:46:05.000000000 Z
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 16.13.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/PopBot/react-metatags-hook/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Lorenzo Zottar
+  last_updated_on: 2020-12-06 00:46:05.000000000 Z
+- name: react-test-renderer
+  description: React package for snapshot testing
+  package_url: https://www.npmjs.com/react-test-renderer
+  version: 16.13.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15929/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
+  detection_source_url: https://github.com/PopBot/react-metatags-hook/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Lorenzo Zottar
+  last_updated_on: 2020-12-06 00:46:05.000000000 Z
+- name: rollup-plugin-commonjs
+  description: Convert CommonJS modules to ES2015
+  package_url: https://www.npmjs.com/rollup-plugin-commonjs
+  version: 10.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15873/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source_url: https://github.com/PopBot/react-metatags-hook/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Lorenzo Zottar
+  last_updated_on: 2020-12-06 00:46:05.000000000 Z
+- name: rollup-plugin-json
+  description: 'Convert .json files to ES6 modules:'
+  package_url: https://www.npmjs.com/rollup-plugin-json
+  version: 4.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16108/default_def3edb85d7fbd20200a5cd7d0a1679e31bc8b3d.png
+  detection_source_url: https://github.com/PopBot/react-metatags-hook/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Lorenzo Zottar
+  last_updated_on: 2020-12-06 00:46:05.000000000 Z
+- name: rollup-plugin-node-resolve
+  description: Bundle third-party dependencies in node_modules
+  package_url: https://www.npmjs.com/rollup-plugin-node-resolve
+  version: 5.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15859/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
+  detection_source_url: https://github.com/PopBot/react-metatags-hook/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Lorenzo Zottar
+  last_updated_on: 2020-12-06 00:46:05.000000000 Z
+- name: rollup-plugin-sourcemaps
+  description: Rollup plugin for grabbing source maps from sourceMappingURLs
+  package_url: https://www.npmjs.com/rollup-plugin-sourcemaps
+  version: 0.6.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16230/default_180418c6fa6cdb8f7a3500f84a8fedb884fcb3fa.png
+  detection_source_url: https://github.com/PopBot/react-metatags-hook/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Lorenzo Zottar
+  last_updated_on: 2020-12-06 00:46:05.000000000 Z
+- name: rollup-plugin-terser
+  description: Rollup plugin to minify generated es bundle
+  package_url: https://www.npmjs.com/rollup-plugin-terser
+  version: 5.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16078/default_c7b204838197013798409fa2b4dafce450edc7fb.png
+  detection_source_url: https://github.com/PopBot/react-metatags-hook/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Lorenzo Zottar
+  last_updated_on: 2020-12-06 00:46:05.000000000 Z
+- name: rollup-plugin-typescript2
+  description: Seamless integration between Rollup and TypeScript
+  package_url: https://www.npmjs.com/rollup-plugin-typescript2
+  version: 0.27.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16076/default_d4e765f8a43dcfd232c8b9ee9732058bc27c727a.png
+  detection_source_url: https://github.com/PopBot/react-metatags-hook/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Lorenzo Zottar
+  last_updated_on: 2020-12-06 00:46:05.000000000 Z
+- name: ts-jest
+  description: A preprocessor with source maps support to help use TypeScript with
+    Jest
+  package_url: https://www.npmjs.com/ts-jest
+  version: 25.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15864/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/PopBot/react-metatags-hook/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Lorenzo Zottar
+  last_updated_on: 2020-05-08 15:32:05.000000000 Z

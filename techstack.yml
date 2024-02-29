@@ -2,7 +2,7 @@ repo_name: PopBot/react-metatags-hook
 report_id: b179467bdd32dd4be2183cd5a584af75
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-31T19:04:05+00:00'
+timestamp: '2024-02-29T19:48:32+00:00'
 requested_by: lordgiotto
 provider: github
 branch: master
@@ -82,7 +82,7 @@ tools:
   last_updated_by: Lorenzo Zottar
   last_updated_on: 2019-05-12 18:24:21.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.0.5
   license: MIT
